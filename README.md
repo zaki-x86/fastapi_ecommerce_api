@@ -1,7 +1,7 @@
-# E-commerce with FastAPI
+# eCommerce with FastAPI
 
 This project is a personal application developed using FastAPI.
-The Ecommerce is created to demonstrate the principles of building APIs,
+The eCommerce is created to demonstrate the principles of building APIs,
 handling requests, and working with databases. The main goal of the project
 is to provide learning opportunities and practice in developing web applications
 using modern technologies.
